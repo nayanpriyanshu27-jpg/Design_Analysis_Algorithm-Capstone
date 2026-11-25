@@ -1,6 +1,6 @@
 # Mini-Courier Planner
 **Course:** Design & Analysis of Algorithms (ETCCDA302) - Capstone Assignment
-**Name / Roll No.:** Aryan Kumar / 250101730431 **Faculty:** Dr. Anvi Aggarwal
+**Name / Roll No.: priyanshu Nayan / 250101730428 **Faculty:** Dr. Anvi Aggarwal
 
 Given a list of parcels and a road network, the program (1) sorts parcels by urgency,
 (2) chooses the most valuable set that fits in the vehicle, (3) finds shortest roads
